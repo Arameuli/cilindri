@@ -1,0 +1,6 @@
+﻿  cilindri.cpp
+C:\Users\nikas\source\repos\cilindri\cilindri.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\cilindri\cilindri.cpp(23,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\cilindri\cilindri.cpp(24,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\cilindri\cilindri.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
+  cilindri.vcxproj -> C:\Users\nikas\source\repos\cilindri\Debug\cilindri.exe
